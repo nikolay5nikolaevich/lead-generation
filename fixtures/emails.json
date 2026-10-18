@@ -1,0 +1,18 @@
+{
+  "severtrans-logistic.ru": [
+    {
+      "address": "info@severtrans-logistic.ru",
+      "kind": "role",
+      "source": "https://severtrans-logistic.ru/contacts",
+      "confidence": "high"
+    }
+  ],
+  "pekarnya-kolosok.ru": [
+    {
+      "address": "hello@pekarnya-kolosok.ru",
+      "kind": "role",
+      "source": "https://pekarnya-kolosok.ru/about",
+      "confidence": "high"
+    }
+  ]
+}

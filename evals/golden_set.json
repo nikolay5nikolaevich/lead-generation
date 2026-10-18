@@ -1,0 +1,105 @@
+{
+  "icp": "icp/expo-export.txt",
+  "companies": [
+    {
+      "domain": "u-techgroup.ru",
+      "fits_icp": false,
+      "comment": "посредник: закупки оборудования в Китае для российских компаний"
+    },
+    {
+      "domain": "specter-group.ru",
+      "fits_icp": false,
+      "comment": "консалтинг"
+    },
+    {
+      "domain": "avzvet.ru",
+      "fits_icp": true,
+      "comment": "производитель ветпрепаратов, европейский GMP; 1200 чел. — больше диапазона, размер владельцу не критичен"
+    },
+    {
+      "domain": "pneumatic-parts.com",
+      "fits_icp": false,
+      "comment": "китайский производитель, иностранная компания"
+    },
+    {
+      "domain": "ridjey.ru",
+      "fits_icp": false,
+      "comment": "застройщик выставочных стендов — конкурент"
+    },
+    {
+      "domain": "system8group.com",
+      "fits_icp": false,
+      "comment": "экспедитор в Дубае, иностранная компания"
+    },
+    {
+      "domain": "meaccurate.com",
+      "fits_icp": false,
+      "comment": "консалтинг в ОАЭ"
+    },
+    {
+      "domain": "sarmat.ae",
+      "fits_icp": false,
+      "comment": "регистрация бизнеса и визы в ОАЭ"
+    },
+    {
+      "domain": "rusglobalexport.ru",
+      "fits_icp": false,
+      "comment": "консультант по экспорту в ОАЭ"
+    },
+    {
+      "domain": "russiachinaexpo.ru",
+      "fits_icp": false,
+      "comment": "сайт выставки"
+    },
+    {
+      "domain": "cmf-expo.ru",
+      "fits_icp": false,
+      "comment": "сайт выставки"
+    },
+    {
+      "domain": "expoclub.ru",
+      "fits_icp": false,
+      "comment": "каталог выставок и выставочное агентство"
+    },
+    {
+      "domain": "exportmo.ru",
+      "fits_icp": false,
+      "comment": "госфонд поддержки экспорта"
+    },
+    {
+      "domain": "tamozhennoe-oformlenie.ru",
+      "fits_icp": false,
+      "comment": "таможенный брокер"
+    },
+    {
+      "domain": "foodteamco.ru",
+      "fits_icp": true,
+      "comment": "пищевой производитель, статус экспортёра в ОАЭ и СНГ, английская версия сайта"
+    },
+    {
+      "domain": "expert-cable.ru",
+      "fits_icp": true,
+      "comment": "кабельный завод, «лидер региона по экспортным поставкам»"
+    },
+    {
+      "domain": "elvpr.ru",
+      "fits_icp": true,
+      "comment": "электротехнический производитель, работает за рубежом; крупное ПАО — размер владельцу не критичен"
+    },
+    {
+      "domain": "zpo.ru",
+      "fits_icp": false,
+      "comment": "производитель без признаков экспорта и выставок на сайте"
+    },
+    {
+      "domain": "decima.ru",
+      "fits_icp": false,
+      "comment": "производитель электроники без признаков экспорта и выставок на сайте"
+    },
+    {
+      "domain": "triuslabs.com",
+      "fits_icp": false,
+      "comment": "контрактное производство косметики, признаков экспорта на сайте нет"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+[project]
+name = "leadgen"
+version = "0.1.0"
+description = "Агент лидогенерации на LangGraph"
+requires-python = ">=3.11"
+dependencies = [
+    "langgraph",
+    "langgraph-checkpoint-sqlite",
+    "pydantic",
+    "httpx",
+    "trafilatura",
+    "protego",
+    "tldextract",
+    "typer",
+    "python-dotenv",
+    "langsmith",
+    "pytest",
+]
+
+[project.scripts]
+leadgen = "leadgen.cli:app"
+
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools.packages.find]
+include = ["leadgen*"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]

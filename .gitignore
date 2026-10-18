@@ -1,0 +1,34 @@
+# Ключи. Образец без значений — .env.example, он в репозитории
+.env
+.env.*
+!.env.example
+
+# Сохранённые страницы, ответы модели и прогресс прогонов — создаются при запуске
+*.sqlite
+*.sqlite-journal
+*.sqlite-wal
+*.sqlite-shm
+
+# Результаты прогонов: email и письма реальных компаний
+out.csv
+evals/eval_out.csv
+
+# Локальные настройки Claude Code; правила и скиллы в .claude/ — в репозитории
+.claude/settings.local.json
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.venv/
+venv/
+build/
+dist/
+
+# Редакторы и система
+.vscode/
+.idea/
+Thumbs.db
+desktop.ini
+.DS_Store
